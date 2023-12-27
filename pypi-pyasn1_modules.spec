@@ -5,7 +5,7 @@
 #
 Name     : pypi-pyasn1_modules
 Version  : 0.3.0
-Release  : 76
+Release  : 77
 URL      : https://files.pythonhosted.org/packages/3b/e4/7dec823b1b5603c5b3c51e942d5d9e65efd6ff946e713a325ed4146d070f/pyasn1_modules-0.3.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/3b/e4/7dec823b1b5603c5b3c51e942d5d9e65efd6ff946e713a325ed4146d070f/pyasn1_modules-0.3.0.tar.gz
 Summary  : A collection of ASN.1-based protocols modules
